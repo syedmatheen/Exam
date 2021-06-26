@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FFFFFF"
+    android:textSize="16sp"
+    android:gravity="center_vertical"
+    android:paddingTop="35dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="40dp"
+    android:textColor="#212121"
+    android:id="@+id/listText"
+    android:drawableLeft="@drawable/icon"
+    android:drawablePadding="50dp"/>
